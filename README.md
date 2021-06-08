@@ -5,3 +5,5 @@ A Colab notebook for generating inpainted photo-set using [MiDaS](https://github
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CKFqTSR18rX3PAnxD19OQHFVgkuGXFf-?usp=sharing)
 
 The resulting photo-sets can be loaded straight into [HoloPlay Studio](https://docs.lookingglassfactory.com/3d-viewers/holoplay-studio).
+
+![Demo](https://github.com/jankais3r/Inpainted-Photo-Sets/blob/main/demo.gif)
